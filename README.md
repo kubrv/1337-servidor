@@ -17,4 +17,4 @@
 
 #### Lista de adicoes
 
-- [x] Red and Blue player models
+- [x] Item
