@@ -18,9 +18,3 @@
 #### Lista de adicoes
 
 - [x] Red and Blue player models
-- [ ] Hide players and legs ( !hide & !legs )
-- [ ] Deathmatch system
-- [ ] Admin\VIP system
-- [ ] Chat player prefix
-- [ ] Ranking
-- [ ] +strafe* (no-angle surfing)
