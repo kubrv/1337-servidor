@@ -2,7 +2,7 @@
     <h3>Organizacao do servidor</h3>
 </div>
 
-#### Comandos admin
+#### Comandos de administradores
 ```c
 .map NOMEDOMAPA //ALTERAR MAPA
 .start //STARTAR PARTIDA
