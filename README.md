@@ -17,4 +17,4 @@
 
 #### Lista de adicoes
 
-- [x] Faca krig
+- [ ] Faca krig
