@@ -17,4 +17,4 @@
 
 #### Lista de adicoes
 
-- [x] Item
+- [x] Faca krig
