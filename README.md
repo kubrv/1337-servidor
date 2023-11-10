@@ -19,8 +19,8 @@
 - [ ] Faca krig
 
 
-### Lista de possiveis
+### Lista de possiveis 
 
-| ITEM  | DESCRICAO                                |
-| ------ | ------------------------------------------ |
-| smoke colorida | Um jogador admin pode personalizar a smoke de qualquercor |
+| ITEM  | DESCRICAO                                | STATUS |
+| ------ | ------------------------------------------ | X |
+| smoke colorida | Um jogador admin pode personalizar a smoke de qualquer cor | ... |
