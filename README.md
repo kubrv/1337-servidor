@@ -7,7 +7,6 @@
 .map NOMEDOMAPA //ALTERAR MAPA
 .start //STARTAR PARTIDA
 !rcon host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
-!kill //SE SUICIDAR
 ```
 
 #### Comandos gerais
