@@ -15,13 +15,12 @@
 .ur
 !kill host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
 ```
-#### Lista de adicoes
+#### Lista de futuras adicoes
 - [ ] Faca krig
-- [ ] Teste
-- [ ] Teste 2
 
-### ServerConfig
+
+### Lista de possiveis
 
 | ITEM  | DESCRICAO                                |
 | ------ | ------------------------------------------ |
-| admins | List of admins with the steamId and a Name |
+| smoke colorida | Um jogador admin pode personalizar a smoke de qualquercor |
