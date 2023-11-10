@@ -21,6 +21,4 @@
 
 ### Lista de possiveis 
 
-| ITEM  | DESCRICAO                                | STATUS |
-| ------ | ------------------------------------------ | X |
-| smoke colorida | Um jogador admin pode personalizar a smoke de qualquer cor | ... |
+- [?] Smoke colorida para um jogador em especifico.
