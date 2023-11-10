@@ -17,3 +17,4 @@
 #### Lista de adicoes
 - [ ] Faca krig
 - [ ] Teste
+- [ ] Teste 2
