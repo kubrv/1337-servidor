@@ -11,7 +11,7 @@
 
 #### Comandos gerais
 ```c
-.r
+.ra
 .ur
 !kill host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
 ```
@@ -19,3 +19,9 @@
 - [ ] Faca krig
 - [ ] Teste
 - [ ] Teste 2
+
+### ServerConfig
+
+| ITEM  | DESCRICAO                                |
+| ------ | ------------------------------------------ |
+| admins | List of admins with the steamId and a Name |
