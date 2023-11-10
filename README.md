@@ -14,7 +14,6 @@
 .r
 .ur
 ```
-
 #### Lista de adicoes
-
 - [ ] Faca krig
+Teste
