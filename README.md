@@ -21,4 +21,4 @@
 
 ### Lista de possiveis 
 
-- [?] Smoke colorida para um jogador em especifico.
+- [?] Smoke colorida para um jogador em especifico. (10/11/2023)
