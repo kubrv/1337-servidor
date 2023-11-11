@@ -5,14 +5,17 @@
 #### Comandos de administradores
 ```c
 .map NOMEDOMAPA //ALTERAR MAPA
-.start //STARTAR PARTIDA
+.fs //STARTAR PARTIDA
+.fe //ENCERRAR PARTIDA
+.restore X //RESTAURAR RODADA
 !rcon host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
 ```
 
 #### Comandos gerais
 ```c
-.ra
-.ur
+.pronto
+.aquecer
+
 !kill host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
 ```
 #### Lista de futuras adicoes
