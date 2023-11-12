@@ -32,5 +32,5 @@ console: killme //SE MATA
 - [X] Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
 
 >[!Nota]
->.
+>
 >Isto esta em constante mudancas, esteja sempre atento para futura adicoes.
