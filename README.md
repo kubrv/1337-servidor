@@ -4,10 +4,10 @@
 
 #### Comandos de administradores
 ```c
-.map NOMEDOMAPA //ALTERAR MAPA
+.map NOME_DO_MAPA //ALTERAR MAPA
 .fs //STARTAR PARTIDA
 .fe //ENCERRAR PARTIDA
-.restore X //RESTAURAR RODADA
+.restore NUMERO_DA_RODADA //RESTAURAR RODADA
 !rcon host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
 ```
 
@@ -15,13 +15,14 @@
 ```c
 .pronto
 .aquecer
-
-!kill host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
+.pernas //OCULTA OU MOST RA AS PERNAS
 ```
-#### Lista de futuras adicoes
-- [ ] Faca krig
+#### Lista de solicitacoes
+- [ ] Faca krig (Solicitado 08/11/2023)
 
 
 ### Lista de possiveis 
 
-- [ ] Smoke colorida para um jogador em especifico. (10/11/2023)
+- [ ] Smoke colorida para um jogador em especifico. (Iniciado 10/11/2023)
+- [ ] Multiplo pulo para admin. (Iniciado 10/11/2023)
+- [X] Jogadores podem ocultar suas pernas. (Iniciado 12/11/2023)
