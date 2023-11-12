@@ -29,7 +29,7 @@ console: killme //SE MATA
 - [ ] Multiplo pulo para admin. (Iniciado 10/11/2023)
 - [X] Jogadores podem ocultar suas pernas. (Iniciado 12/11/2023)
 
-### Gerais
+### Gerais.
 - [X] Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
 
 <!-- >[!NOTE]
