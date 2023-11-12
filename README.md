@@ -16,7 +16,7 @@
 .pronto //FICA PRONTO PARA INICIAR PARTIDA
 .aquecer //VOLTA PARA O MODO AQUECIMENTO
 .pernas //OCULTA OU MOSTRAR AS PERNAS
-console: killme //SE MATA
+no console: killme //SE MATA
 ```
 
 ### Lista de solicitacoes
