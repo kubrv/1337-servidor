@@ -9,7 +9,7 @@
 .fe //ENCERRAR PARTIDA
 .restore NUMERO_DA_RODADA //RESTAURAR RODADA
 !rcon host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
-```a
+```
 
 ### Comandos gerais chat
 ```c
@@ -18,6 +18,7 @@
 .pernas //OCULTA OU MOSTRAR AS PERNAS
 console: killme //SE MATA
 ```
+
 ### Lista de solicitacoes
 - [ ] Faca krig (Solicitado 08/11/2023)
 
