@@ -2,7 +2,7 @@
     <h3>Organizacao do servidor</h3>
 </div>
 
-#### Comandos de administradores
+### Comandos de administradores
 ```c
 .map NOME_DO_MAPA //ALTERAR MAPA
 .fs //STARTAR PARTIDA
@@ -11,14 +11,14 @@
 !rcon host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
 ```a
 
-#### Comandos gerais
+### Comandos gerais chat
 ```c
 .pronto
 .aquecer
 .pernas //OCULTA OU MOSTRAR AS PERNAS
 console: killme //SE MATA
 ```
-#### Lista de solicitacoes
+### Lista de solicitacoes
 - [ ] Faca krig (Solicitado 08/11/2023)
 
 
