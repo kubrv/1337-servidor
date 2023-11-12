@@ -35,3 +35,7 @@ console: killme //SE MATA
 >[!NOTA]
 >
 >Isto esta em constante mudancas, esteja sempre atento para futura adicoes.
+
+>[!NOTE]
+>
+>This is a standard NOTE block.
