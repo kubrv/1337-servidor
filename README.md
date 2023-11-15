@@ -31,7 +31,7 @@ killme //SE MATA
 
 - [ ] Smoke colorida para um jogador em especifico. (Iniciado 10/11/2023)
 - [ ] Multiplo pulo para admin. (Iniciado 10/11/2023)
-- [X] (Temporariamente indisponivel) Jogadores podem ocultar suas pernas. (cmd /pernas) (Iniciado 12/11/2023) [DEMONSTRACAO](https://exemplo.com/) 
+- [X] (🟡 Temporariamente indisponivel 🟡) Jogadores podem ocultar suas pernas. (cmd /pernas) (Iniciado 12/11/2023) [DEMONSTRACAO](https://exemplo.com/) 
 
 ### Gerais
 - [X] Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
