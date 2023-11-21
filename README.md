@@ -4,11 +4,13 @@
 
 ### Comandos de administradores
 ```c
-.map NOME_DO_MAPA //ALTERAR MAPA
 .fs //STARTAR PARTIDA
 .fe //ENCERRAR PARTIDA
 .restore NUMERO_DA_RODADA //VOLTAR NA RODADA ESPECIFICADA
-!rcon host_workshop_map ID_DO_MAPA //ALTERAR PARA QUALQUERMAPA DA OFICINA
+/map NOME_DO_MAPA //ALTERAR MAPA
+/wsmap ID_DO_MAPA //ALTERAR PARA QUALQUER MAPA DA OFICINA
+/hp NICK_EXATO VALOR //ALTERAR HP DO JOGADOR (BUG VISUAL)
+/give NICK_EXATO [WEAPON_NAME](https://exemplo.com/)  
 ```
 
 ### Comandos gerais chat
@@ -31,11 +33,14 @@ killme //SE MATA
 
 - [ ] Smoke colorida para um jogador em especifico. (Iniciado 10/11/2023)
 - [ ] Multiplo pulo para admin. (Iniciado 10/11/2023)
-- [X] (🟡 Temporariamente indisponivel 🟡) Jogadores podem ocultar suas pernas. (cmd /pernas) (Iniciado 12/11/2023) [DEMONSTRACAO](https://exemplo.com/) 
+- [X] Jogadores podem ocultar suas pernas. (cmd /pernas) (Iniciado 12/11/2023) [DEMONSTRACAO](https://exemplo.com/) 
 
 ### Gerais
 - [X] Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
 
 <!-- >[!NOTE]testes.....
 >
+TENTAR
+- [ ] Cs2 weapons skins web site (19/11/2023)
+- [ ] Santa claus para papai noel (Visto 17/11/2023 )
 >This is a standard NOTE block. -->

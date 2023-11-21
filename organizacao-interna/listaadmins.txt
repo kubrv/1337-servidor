@@ -15,3 +15,8 @@ STEAM_1:1:740110141
 https://steamcommunity.com/profiles/76561198354798459
 https://steamcommunity.com/id/rianmoreira
 STEAM_0:1:197266365
+
+//polex
+https://steamcommunity.com/profiles/76561198192294717
+https://steamcommunity.com/id/polexcs/
+STEAM_1:1:116014494
