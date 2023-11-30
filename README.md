@@ -26,7 +26,7 @@ killme //SE MATA
 ```
 
 ### Lista de SOLICITACOES
-- [X] Faca krig (Solicitado 08/11/2023) [DEMONSTRACAO](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) (Adicionado 30/11/2023)
+- [X] Faca krig (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
 
 
 ### Changelog Geral
