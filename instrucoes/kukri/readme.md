@@ -7,9 +7,10 @@
 > [!CAUTION]
 > O comando tem que ser dado ao estar de CT e ao estar de TR
 
-### COMMANDO PARA UTILIZACAO
+### COMANDO PARA UTILIZACAO
 ```c
-skin 72 99 0.28926 526
+exemplo skin 72 0 0 526
 ```
-SITE PARA PEGAR SKINS: [LINK](https://1337.kubrv.hostzn.comw)
+SITE PARA PEGAR REFS DA SKIN: [CLIQUE AQUI](https://1337.kubrv.hostzn.com/skins/)
+VIDEO DEMONSTRACAO: [CLOQUE AQUI](https://drive.google.com/file/d/1_7i6N80QZsIicMAFM-O_7YuDc0vTAisX/view?usp=sharing)
 
