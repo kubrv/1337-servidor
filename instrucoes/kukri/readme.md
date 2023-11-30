@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Organizacao do servidor</h3>
+    <h3>Organizacao do TESTE</h3>
 </div>
 
 ### Comandos de administradores
@@ -25,7 +25,7 @@ killme //SE MATA
 ```
 
 ### Lista de SOLICITACOES
-- [ ] PRIORIDADE Faca krig (Solicitado 08/11/2023) [DEMONSTRACAO](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri)
+- [ ] PRIORIDADE Faca krig (Solicitado 08/11/2023) 
 
 
 ### Lista de possiveis 
