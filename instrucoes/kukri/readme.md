@@ -1,3 +1,6 @@
+SITE PARA PEGAR REFS DA SKIN: [CLIQUE AQUI](https://1337.kubrv.hostzn.com/skins/)
+VIDEO DEMONSTRACAO: [CLIQUE AQUI](https://drive.google.com/file/d/1_7i6N80QZsIicMAFM-O_7YuDc0vTAisX/view?usp=sharing)
+
 > [!CAUTION]
 > As vezes eh necessario mandar mais de uma vez o comando para a skin ser aplicada.
 
@@ -11,6 +14,3 @@
 ```c
 exemplo skin 72 0 0 526
 ```
-SITE PARA PEGAR REFS DA SKIN: [CLIQUE AQUI](https://1337.kubrv.hostzn.com/skins/)
-VIDEO DEMONSTRACAO: [CLOQUE AQUI](https://drive.google.com/file/d/1_7i6N80QZsIicMAFM-O_7YuDc0vTAisX/view?usp=sharing)
-

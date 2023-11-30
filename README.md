@@ -27,12 +27,10 @@ killme //SE MATA
 ```
 
 ### Lista de SOLICITACOES
-- [ ] PRIORIDADE Faca krig (Solicitado 08/11/2023) [DEMONSTRACAO](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri)
+- [X] Faca krig (Solicitado 08/11/2023) [DEMONSTRACAO](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) (Adicionado 30/11/2023)
 
 
-### Lista de possiveis 
-
-### Gerais
+### Changelog Geral
 - [X] Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
 
 <!-- >[!NOTE]testes.....
