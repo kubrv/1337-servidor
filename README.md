@@ -18,7 +18,6 @@
 ```c
 /pronto //FICA PRONTO PARA INICIAR PARTIDA
 /aquecer //VOLTA PARA O MODO AQUECIMENTO
-// /pernas //OCULTA OU MOSTRAR AS PERNAS
 ```
 
 ### Comandos gerais console
