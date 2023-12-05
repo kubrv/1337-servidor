@@ -33,7 +33,7 @@ killme //SE MATA
 
 ### Changelog dezembro
 - [05/12/2023]
-Corrigo bug onde o sistema da kukri nao estava funcionando, disponivel novamente!
+- - Corrigo bug onde o sistema da kukri nao estava funcionando, disponivel novamente!
 <!-- >[!NOTE]testes.....
 >
 TENTAR
