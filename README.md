@@ -6,7 +6,6 @@
 ```c
 /fs //STARTAR PARTIDA
 /fe //ENCERRAR PARTIDA
-// /restore NUMERO_DA_RODADA //VOLTAR NA RODADA ESPECIFICADA
 /map NOME_DO_MAPA //ALTERAR MAPA
 /wsmap ID_DO_MAPA //ALTERAR PARA QUALQUER MAPA DA OFICINA
 /hp NICK_EXATO VALOR //ALTERAR HP DO JOGADOR (BUG VISUAL, MAS EH ALTERADO)
@@ -32,6 +31,9 @@ killme //SE MATA
 ### Changelog Geral
 - [X] Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
 
+### Changelog dezembro
+- 05/12/2023
+Corrigo bug onde o sistema da kukri nao estava funcionando, disponivel novamente!
 <!-- >[!NOTE]testes.....
 >
 TENTAR
