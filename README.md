@@ -1,12 +1,7 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
-<div align="center">
-    <h3>Organizacao do servidor</h3>
-</div>
+### BUGS A SEREM CORRIGIDOS
+```c
+LIMITE DE JOGADORES POR EQUIPE
+```
 
 ### Comandos de administradores
 ```c
@@ -41,7 +36,6 @@ killme //SE MATA
 - [05/12/2023]
 - - Corrigo bug onde o sistema da kukri nao estava funcionando, disponivel novamente!
 
-- <r>CORRIGIR LIMITE NOS ITMES</r>
 <!-- >[!NOTE]testes.....
 >
 TENTAR
