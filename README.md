@@ -1,7 +1,6 @@
-### BUGS A SEREM CORRIGIDOS
-```c
-#LIMITE DE JOGADORES POR EQUIPE
-```
+### BUGS A SEREM CORRIGIDOS=
+- LIMITE DE JOGADORES POR EQUIPE
+
 
 ### Comandos de administradores
 ```c
