@@ -12,6 +12,6 @@
 
 ### COMANDO PARA UTILIZACAO
 ```c
-skin 421 0 0 526 //SAPHIRE
+skin 416 0 0 526 //SAPHIRE
 skin 879 0 0 526 //DOPPLER
 ```
