@@ -1,3 +1,9 @@
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 <div align="center">
     <h3>Organizacao do servidor</h3>
 </div>
@@ -35,7 +41,7 @@ killme //SE MATA
 - [05/12/2023]
 - - Corrigo bug onde o sistema da kukri nao estava funcionando, disponivel novamente!
 
-<span style="color:red"> * CORRIGIR LIMITE NOS TIMES *</span>
+- <r>CORRIGIR LIMITE NOS ITMES</r>
 <!-- >[!NOTE]testes.....
 >
 TENTAR
