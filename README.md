@@ -26,6 +26,15 @@ killme //SE MATA
 
 ### Lista de SOLICITACOES
 - [X] Faca KUKRI (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
+- [ ] Comando de bhop apenas para admin
+- [ ] Comando pareciodo com aimbot
+
+### Lista de FUTURAS CORRECOES
+- [ ] Corrigir sistema de bans
+- [ ] Bloquear poder da vote no servidor
+- [ ] Remover dano amigo 
+- [ ] Corrigir aquecimento
+- [ ] Corrigir entrada de + de 5 jogadores nas equipes
 
 
 ### Changelog Geral
