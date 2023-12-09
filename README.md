@@ -39,7 +39,8 @@ killme //SE MATA
 - [ ] Status do servidor no discord
 
 ### Changelog Geral
-- Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
+- [12/11/2023]
+- - Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
 - [05/12/2023]
 - - Corrigo bug onde o sistema da kukri nao estava funcionando, disponivel novamente!
 
