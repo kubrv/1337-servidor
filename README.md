@@ -1,4 +1,3 @@
-### ASSIM VAI INDO
 ### ISSUES (PROBLEMA, DATA DE REPORTAGEM)
 - [ ] Corrigir sistema de bans
 - [ ] Bloquear poder da vote no servidor
@@ -7,7 +6,7 @@
 - [ ] Entrada de + de 5 jogadores nas equipes
 - [ ] Bug pos kick 
 - [ ] Sistema de competitivo quebrou 09/12/2023
-- [ ] !wsmap nao funciona 09
+- [ ] !wsmap nao funciona 09/12/2023
 
 ### CMDS ADMINISTRADORES
 ```c
