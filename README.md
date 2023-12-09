@@ -28,7 +28,7 @@
 killme //SE MATA
 ```
 
-### Lista de SOLICITACOES
+### SOLICOTACOES
 - [X] Faca KUKRI (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
 - [ ] Comando de bhop apenas para admin
 - [ ] Comando parecido com aimbot
@@ -44,12 +44,3 @@ killme //SE MATA
 - [05/12/2023]
 - - Corrigo bug onde o sistema da kukri nao estava funcionando, disponivel novamente!
 
-<!-- >
-- [ ] Smoke colorida para um jogador em especifico. (Iniciado 10/11/2023)
-- [ ] Multiplo pulo para admin. (Iniciado 10/11/2023)
-- [ ] Cs2 weapons skins web site (19/11/2023)
-- [ ] Santa claus para papai noel (Visto 17/11/2023 )
-- [ ] Poder bloquear qualquer arma (Visto 20/11/2023 )
-- [X] Jogadores podem ocultar suas pernas. (cmd /pernas) (Iniciado 12/11/2023) [DEMONSTRACAO](https://drive.google.com/file/d/1VC3jqssBFEKwUvPmBVuHQsvo5Bo1HCgp/view?usp=sharing) 
-- [X] Cada time com smoke colorida (Iniciado 20/11/2023) [DEMONSTRACAO](https://drive.google.com/file/d/1VBqLqReRK69xNTMvYoFq8TvlGXcrLlWr/view?usp=sharing) 
--->
