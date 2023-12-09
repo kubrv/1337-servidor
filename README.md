@@ -6,7 +6,7 @@
 - [ ] Entrada de + de 5 jogadores nas equipes [09/12/2023]
 - [ ] Bug pos kick  [09/12/2023]
 - [CONTATO] Sistema de competitivo quebrou [09/12/2023]
-- [ ] !wsmap nao funciona [09/12/2023]
+- [CONTATO] !wsmap nao funciona [09/12/2023]
 
 ### CMDS ADMINISTRADORES
 ```c
