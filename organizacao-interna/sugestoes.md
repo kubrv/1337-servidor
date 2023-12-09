@@ -9,4 +9,5 @@
 - [X] Jogadores podem ocultar suas pernas. (cmd /pernas) (Iniciado 12/11/2023) [DEMONSTRACAO](https://drive.google.com/file/d/1VC3jqssBFEKwUvPmBVuHQsvo5Bo1HCgp/view?usp=sharing) 
 - [X] Cada time com smoke colorida (Iniciado 20/11/2023) [DEMONSTRACAO](https://drive.google.com/file/d/1VBqLqReRK69xNTMvYoFq8TvlGXcrLlWr/view?usp=sharing) 
 - [ ] Paraquedas, visto 06/12/2023
--->
+- [ ] Sistema de demos auto
+--> 

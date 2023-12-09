@@ -6,6 +6,7 @@
 - [ ] Entrada de + de 5 jogadores nas equipes
 - [ ] Bug pos kick 
 - [ ] Sistema de competitivo quebrou 09/12/2023
+- [ ] !wsmap nao funciona
 
 ### CMDS ADMINISTRADORES
 ```c
@@ -29,15 +30,11 @@
 killme //SE MATA
 ```
 
-### SOLICOTACOES
+### SOLICITACOES
 - [X] Faca KUKRI (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
 - [ ] Comando de bhop apenas para admin
 - [ ] Comando parecido com aimbot
 - [ ] Acesso ao painel
-
-### FUTURAS IMPLEMENTACOES
-- [ ] Auto demo upload
-- [ ] Status do servidor no discord
 
 ### Changelog Geral
 - [12/11/2023]
