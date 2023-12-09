@@ -3,8 +3,8 @@
 - [ ] Bloquear poder da vote no servidor
 - [ ] Remover dano amigo 
 - [ ] Aquecimento finalizando sozinho
-- [ ] Entrada de + de 5 jogadores nas equipes.
-- [ ] Bug pos kick.
+- [ ] Entrada de + de 5 jogadores nas equipes
+- [ ] Bug pos kick
 
 ### Comandos de administradores
 ```c
