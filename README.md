@@ -1,4 +1,4 @@
-### ISSUES (PROBLEMA, DATA DE REPORTAGEM)teste
+### ISSUES (PROBLEMA, DATA DE REPORTAGEM)teste2
 - [ ] Corrigir sistema de bans
 - [ ] Bloquear poder da vote no servidor
 - [ ] Remover dano amigo 
