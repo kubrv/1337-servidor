@@ -1,4 +1,5 @@
-### ISSUES (PROBLEMA, DATA DE REPORTAGEM)teste2
+### ASSIM VAI INDO
+### ISSUES (PROBLEMA, DATA DE REPORTAGEM)
 - [ ] Corrigir sistema de bans
 - [ ] Bloquear poder da vote no servidor
 - [ ] Remover dano amigo 
