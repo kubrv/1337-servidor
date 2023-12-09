@@ -4,7 +4,7 @@
 - [ ] Remover dano amigo 
 - [ ] Aquecimento finalizando sozinho
 - [ ] Entrada de + de 5 jogadores nas equipes
-- [ ] Bug pos kick 
+- [ ] Bug pos kick.
 
 ### Comandos de administradores
 ```c
