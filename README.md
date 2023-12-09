@@ -1,3 +1,5 @@
+TESTE
+
 ### ISSUES (PROBLEMA, DATA DE REPORTAGEM)
 - [ ] Corrigir sistema de bans
 - [ ] Bloquear poder da vote no servidor
