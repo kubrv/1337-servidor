@@ -1,12 +1,12 @@
 ### ISSUES (PROBLEMA, DATA DE REPORTAGEM)
-- [ ] Corrigir sistema de bans 09/12/2023
-- [ ] Bloquear poder da vote no servidor 09/12/2023
-- [ ] Remover dano amigo  09/12/2023
-- [ ] Aquecimento finalizando sozinho 09/12/2023
-- [ ] Entrada de + de 5 jogadores nas equipes 09/12/2023
-- [ ] Bug pos kick  09/12/2023
-- [ ] Sistema de competitivo quebrou 09/12/2023
-- [ ] !wsmap nao funciona 09/12/2023
+- [ ] Corrigir sistema de bans [09/12/2023]
+- [ ] Bloquear poder da vote no servidor [09/12/2023]
+- [ ] Remover dano amigo  [09/12/2023]
+- [ ] Aquecimento finalizando sozinho [09/12/2023]
+- [ ] Entrada de + de 5 jogadores nas equipes [09/12/2023]
+- [ ] Bug pos kick  [09/12/2023]
+- [ ] Sistema de competitivo quebrou [09/12/2023]
+- [ ] !wsmap nao funciona [09/12/2023]
 
 ### CMDS ADMINISTRADORES
 ```c
