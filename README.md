@@ -1,12 +1,13 @@
-### ISSUES
+### ISSUES (PROBLEMA, DATA DE REPORTAGEM)
 - [ ] Corrigir sistema de bans
 - [ ] Bloquear poder da vote no servidor
 - [ ] Remover dano amigo 
 - [ ] Aquecimento finalizando sozinho
 - [ ] Entrada de + de 5 jogadores nas equipes
-- [ ] Bug pos kick
+- [ ] Bug pos kick 
+- [ ] Sistema de competitivo quebrou 09/12/2023
 
-### Comandos de administradores
+### CMDS ADMINISTRADORES
 ```c
 /fs //STARTAR PARTIDA
 /fe //ENCERRAR PARTIDA
@@ -17,13 +18,13 @@
 /funpause //COMANDO PARA DESPAUSAR A PARTIDA
 ```
 
-### Comandos gerais chat
+### CMDS GERAIS
 ```c
 /pronto //FICA PRONTO PARA INICIAR PARTIDA
 /aquecer //VOLTA PARA O MODO AQUECIMENTO
 ```
 
-### Comandos gerais console
+### CMDS CONSOLE
 ```c
 killme //SE MATA
 ```
