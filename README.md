@@ -14,9 +14,9 @@
 /fe //ENCERRAR PARTIDA
 /map NOME_DO_MAPA //ALTERAR MAPA
 /wsmap ID_DO_MAPA //ALTERAR PARA QUALQUER MAPA DA OFICINA
-/hp NICK_EXATO VALOR //ALTERAR HP DO JOGADOR (BUG VISUAL, MAS EH ALTERADO)
-/fpause //COMANDO PARA PAUSAR A PARTIDA
-/funpause //COMANDO PARA DESPAUSAR A PARTIDA
+/pause //PAUSA A PARTIDA
+/unpause //DESPAUSA A PARTIDA
+/restore //RESTAURA A RODADA
 ```
 
 ### CMDS GERAIS
@@ -32,7 +32,7 @@ killme //SE MATA
 
 ### SOLICITACOES (SOLICITACAO, DATA DE SOLICITACAO, DATA DE IMPLEMENTACAO)
 - [X] Faca KUKRI (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
-- [ ] Comando de bhop apenas para admin (Solicitado 09/12/2023) 
+- [ ] Comando de bhop apenas par a admin (Solicitado 09/12/2023) 
 - [ ] Comando parecido com aimbot (Solicitado 09/12/2023) 
 - [ ] Acesso ao painel (Solicitado 09/12/2023) 
 
