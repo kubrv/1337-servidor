@@ -1,7 +1,7 @@
-### ISSUES (PROBLEMA, DATA DE REPORTAGEM)
+﻿### ISSUES (PROBLEMA, DATA DE REPORTAGEM)
 - [ ] Corrigir sistema de bans [09/12/2023]
-- [TESTE] Bloquear poder da vote no servidor [09/12/2023]
-- [TESTE] Remover dano amigo  [09/12/2023]
+- [ ]🚧 Bloquear poder da vote no servidor [09/12/2023]
+- [ ] 🚧 Remover dano amigo  [09/12/2023]
 - [ ] Aquecimento finalizando sozinho [09/12/2023]
 - [ ] Entrada de + de 5 jogadores nas equipes [09/12/2023]
 - [ ] Bug pos kick  [09/12/2023]
