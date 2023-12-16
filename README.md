@@ -1,5 +1,6 @@
-﻿### ISSUES (PROBLEMA, DATA DE REPORTAGEM, DATA DE CORRECAO) (⁉️ = EM TESTE)
+### ISSUES (PROBLEMA, DATA DE REPORTAGEM, DATA DE CORRECAO) (⁉️ = EM TESTE)
 - [ ] Apos banir fica tentando reconectar e fica um flood no chat (15/12/2023) (-)
+- [ ] Servidor lota e fica impossivel de conectar, necessario restar. (16/12/2023) (-)
 
 
 ### CMDS ADMINISTRADORES
@@ -45,6 +46,6 @@ killme //SE MATA
 
 - [15/12/2023]
 - - Corrigido sistema de bans, corrigido aquecimento
-- 
+
 - [16/12/2023]
 - - 
