@@ -1,6 +1,6 @@
 ### ISSUES (PROBLEMA, DATA DE REPORTAGEM, DATA DE CORRECAO) (⁉️ = EM TESTE)
 - [ ] Apos banir fica tentando reconectar e fica um flood no chat (15/12/2023) (-)
-- [ ] Servidor lota e fica impossivel de conectar, necessario restar. (16/12/2023) (-)
+- [ ] Servidor lota e fica impossivel de conectar, necessario reiniciar. (16/12/2023) (-)
 
 
 ### CMDS ADMINISTRADORES
@@ -25,7 +25,11 @@
 killme //SE MATA
 ```
 
+### ADICOES (ADICAO, DATA DE INICIO, DATA DE IMPLEMENTACAO)
+- [ ] Sistema de skins de armas via web painel (Inicio 19/12/2023) (-)
+
 ### SOLICITACOES (SOLICITACAO, DATA DE SOLICITACAO, DATA DE IMPLEMENTACAO)
+- [ ] Sistema de teia
 - [X] Faca KUKRI (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
 - [ ] Comando de bhop apenas para admin (Solicitado 09/12/2023) 
 - [ ] Comando parecido com aimbot (Solicitado 09/12/2023) 
@@ -47,5 +51,9 @@ killme //SE MATA
 - [15/12/2023]
 - - Corrigido sistema de bans, corrigido aquecimento
 
-- [16/12/2023]
+- [19/12/2023]
+- - Iniciado teste do sistema de teia.
+  
+- [20/12/203] 
+- - Adicionado admin para o raphao.
 - - 
