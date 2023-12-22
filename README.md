@@ -26,7 +26,7 @@ killme //SE MATA
 ```
 
 ### ADICOES (ADICAO, DATA DE INICIO, DATA DE IMPLEMENTACAO)
-- [X] Sistema de skins de armas via web painel (Inicio 19/12/2023) (Implementado 21/12/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
+- [X] Sistema de skins de armas via web painel (Inicio 19/12/2023) (Implementado 21/12/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/skins_webpanel) 
 
 ### SOLICITACOES (SOLICITACAO, DATA DE SOLICITACAO, DATA DE IMPLEMENTACAO)
 - [ ] Sistema de teia
