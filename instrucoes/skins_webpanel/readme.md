@@ -6,5 +6,5 @@
 ```c
 /ws // MOSTRA OPCOES DAS SKINS
 /wp // RECARREGA AS SKINS
-![Alt text](instrucoes\skins_webpanel\screenshot.png)
+![alt text](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/skins_webpanel/screenshot.png?raw=true)
 ```
