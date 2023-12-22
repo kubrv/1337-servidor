@@ -8,4 +8,4 @@
 /wp // RECARREGA AS SKINS
 
 ```
-![alt text](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/skins_webpanel/screenshot.png?raw=true)
+![alt text]![preview](https://github.com/kubrv/1337-servidor/blob/main/isntrucoes/skins_webpanel/screenshot.png?raw=true)
