@@ -26,7 +26,7 @@ killme //SE MATA
 ```
 
 ### ADICOES (ADICAO, DATA DE INICIO, DATA DE IMPLEMENTACAO)
-- [ ] Sistema de skins de armas via web painel (Inicio 19/12/2023) (-)
+- [ ] Sistema de skins de armas via web painel (Inicio 19/12/2023) (Implementado 21/12/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
 
 ### SOLICITACOES (SOLICITACAO, DATA DE SOLICITACAO, DATA DE IMPLEMENTACAO)
 - [ ] Sistema de teia
@@ -56,4 +56,6 @@ killme //SE MATA
   
 - [20/12/203] 
 - - Adicionado admin para o raphao.
-- - 
+
+- [21/12/203] 
+- - Implemnentado sistema de SKINS integrado a um WEB SITE
