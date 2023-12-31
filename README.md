@@ -34,6 +34,7 @@ killme //SE MATA
 - [ ] Comando de bhop apenas para admin (Solicitado 09/12/2023) 
 - [ ] Comando parecido com aimbot (Solicitado 09/12/2023) 
 - [ ] Acesso ao painel (Solicitado 09/12/2023) 
+- [ ] Mapa inferno do csgo (Solicitado 19/12/2023)
 
 ### CHANGELOG DO MES
 - [12/11/2023]
@@ -54,8 +55,16 @@ killme //SE MATA
 - [19/12/2023]
 - - Iniciado teste do sistema de teia.
   
-- [20/12/203] 
+- [20/12/2023] 
 - - Adicionado admin para o raphao.
 
-- [21/12/203] 
+- [21/12/2023] 
 - - Implemnentado sistema de SKINS integrado a um WEB SITE
+ 
+- [23/12/2023] 
+- - Implemtado log de entradas ao servidor.
+
+- [31/12/2023]
+- - Servidor atualizado
+- - Sistema competitivo atualizado
+- - Api atuallizada 
