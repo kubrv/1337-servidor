@@ -27,7 +27,7 @@ killme //SE MATA
 
 ### ADICOES (ADICAO, DATA DE INICIO, DATA DE IMPLEMENTACAO)
 - [X] Sistema de skins de armas via web painel (Inicio 19/12/2023) (Implementado 21/12/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/skins_webpanel) 
-- [X] Paraquedas no modo competitivo (Inicio 06/12/2023) (Implemetnado 03/01/2024) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/paraquedas)
+- [X] 🆕🆕🆕 Paraquedas no modo competitivo (Inicio 06/12/2023) (Implemetnado 03/01/2024) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/paraq)
 
 ### SOLICITACOES PENDENTES (SOLICITACAO, DATA DE SOLICITACAO, DATA DE IMPLEMENTACAO)
 - [ ] Sistema de teia
