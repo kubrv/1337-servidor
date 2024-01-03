@@ -30,42 +30,15 @@ killme //SE MATA
 - [X] 🆕🆕🆕 Paraquedas no modo competitivo (Inicio 06/12/2023) (Implemetnado 03/01/2024) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/paraquedas)
 
 ### SOLICITACOES PENDENTES (SOLICITACAO, DATA DE SOLICITACAO, DATA DE IMPLEMENTACAO)
-- [ ] Sistema de teia
+- [ ] Sistema de teia (Solicitado 16/12/2023)
 - [X] Faca KUKRI (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
 - [ ] Comando de bhop apenas para admin (Solicitado 09/12/2023) 
 - [ ] Comando parecido com aimbot (Solicitado 09/12/2023) 
 - [ ] Acesso ao painel (Solicitado 09/12/2023) 
 - [ ] Mapa inferno do csgo (Solicitado 19/12/2023)
 
-### CHANGELOG DO MES
-- [12/11/2023]
-- - Comando no console killme no console agora pode ser usado parecido com o do csgo. (Adicionado em 12/11/2023)
-
-- [05/12/2023]
-- - Corrigo bug onde o sistema da kukri nao estava funcionando, disponivel novamente!
-
-- [08/12/2023]
-- - Atualizado servidor, sistema de competitivo re organizado, testando liimite de jogadores, comando ban em faste de teste.
-
-- [12/12/2023]
-- - Removido mensagens desnecssarias do chat conforme o administrador aplica bans ou coisas do genero
-
-- [15/12/2023]
-- - Corrigido sistema de bans, corrigido aquecimento
-
-- [19/12/2023]
-- - Iniciado teste do sistema de teia.
-  
-- [20/12/2023] 
-- - Adicionado admin para o raphao.
-
-- [21/12/2023] 
-- - Implemnentado sistema de SKINS integrado a um WEB SITE
- 
-- [23/12/2023] 
-- - Implemtado log de entradas ao servidor.
-
-- [31/12/2023]
-- - Servidor atualizado
-- - Sistema competitivo atualizado
-- - Api atuallizada 
+## CHANGELOG DO MES
+```
+(03.01.2024)
+- Criado sistema de paraquedas no modo competitivo
+```
