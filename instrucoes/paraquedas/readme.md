@@ -6,4 +6,4 @@
 apertar E no ar
 
 ```
-![preview](https://github.com/kubrv/1337-servidor/blob/main/instrucoes/skins_webpanel/image.png?raw=true)
+![preview](https://github.com/kubrv/1337-servidor/blob/main/instrucoes/paraquedas/image.png?raw=true)
