@@ -43,5 +43,5 @@ killme //SE MATA
 - Criado sistema de paraquedas no modo competitivo
 
 (08.01.2024)
-- Implementaod sistema de gancho/teia
+- Implementado sistema de gancho/teia
 ```
