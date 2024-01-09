@@ -1,0 +1,5 @@
+### COMANDO PARA UTILIZACAO
+```c
+BASTA APERTAR `E
+```
+![DEMONSTRACAO](image.png)

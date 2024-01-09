@@ -30,7 +30,7 @@ killme //SE MATA
 - [X] 🆕🆕🆕 Paraquedas no modo competitivo (Inicio 06/12/2023) (Implemetnado 03/01/2024) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/paraquedas)
 
 ### SOLICITACOES PENDENTES (SOLICITACAO, DATA DE SOLICITACAO, DATA DE IMPLEMENTACAO)
-- [ ] Sistema de teia (Solicitado 16/12/2023)
+- [X] 🆕🆕🆕 Sistema de gancho/teia (Solicitado 16/12/2023) (Adicioando 08/01/2024) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/gancho) 
 - [X] Faca KUKRI (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
 - [ ] Comando de bhop apenas para admin (Solicitado 09/12/2023) 
 - [ ] Comando parecido com aimbot (Solicitado 09/12/2023) 
@@ -41,4 +41,7 @@ killme //SE MATA
 ```
 (03.01.2024)
 - Criado sistema de paraquedas no modo competitivo
+
+(08.01.2024)
+- Implementaod sistema de gancho/teia
 ```
