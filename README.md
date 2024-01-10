@@ -1,4 +1,6 @@
-### ISSUES (PROBLEMA, DATA DE REPORTAGEM, DATA DE CORRECAO) (⁉️ = EM TESTE)
+### ISSUES (PROBLEMA, DATA DE REPORTAGEM, DATA DE CORRECAO) (⁉️ = EM TESTE)/
+- [X] Kick e ban nao esta funcionando (09/01/2024) (10/01/2024)
+  > Possivelmente os bans nao funcionarao 100%, pode ser que em algum momento algum jogador banido consiga retornar!
 - [ ] Apos banir fica tentando reconectar e fica um flood no chat (15/12/2023) (-)
 - [ ] Servidor lota e fica impossivel de conectar, necessario reiniciar. (16/12/2023) (-)
 
@@ -44,4 +46,11 @@ killme //SE MATA
 
 (08.01.2024)
 - Implementado sistema de gancho/teia
+
+(09.01.2024
+- Solicitado mapa inferno night (!wsmap 3124567099))
+- Identificado problemas com cmds bans e kicks
+
+(10.01.2024)
+- Corrigido sistema de kicks e bans, o ban ainda pode apresentar problemas.
 ```
