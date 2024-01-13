@@ -1,6 +1,6 @@
 ### ISSUES (PROBLEMA, DATA DE REPORTAGEM, DATA DE CORRECAO) (⁉️ = EM TESTE)/
 - [X] Kick e ban nao esta funcionando (09/01/2024) (10/01/2024)
-  > Possivelmente os bans nao funcionarao 100%, pode ser que em algum momento algum jogador banido consiga retornar!
+  > Possivelmente os bans nao funcionarao 100%. pode ser que em algum momento algum jogador banido consiga retornar!
 - [ ] Apos banir fica tentando reconectar e fica um flood no chat (15/12/2023) (-)
 - [ ] Servidor lota e fica impossivel de conectar, necessario reiniciar. (16/12/2023) (-)
 
