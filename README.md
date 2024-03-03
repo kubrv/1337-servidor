@@ -40,6 +40,7 @@ killme //SE MATA
 
 ## CHANGELOG DO MES
 ```
-(01.03.2024)
-- 
+(03.03.2024)
+- Inserido o mapa Deathrun Playground (!wsmap 3164611860)
+> se quiser jogaor o modo preciso que informe antes para deixar o servidor para este modo de jogo casual.
 ```
