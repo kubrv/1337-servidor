@@ -40,3 +40,26 @@
 - - Servidor atualizado
 - - Sistema competitivo atualizado
 - - Api atuallizada 
+
+```
+(03.01.2024)
+- Criado sistema de paraquedas no modo competitivo
+
+(08.01.2024)
+- Implementado sistema de gancho/teia
+
+(09.01.2024
+- Solicitado mapa inferno night (!wsmap 3124567099))
+- Identificado problemas com cmds bans e kicks
+
+(10.01.2024)
+- Corrigido sistema de kicks e bans, o ban ainda pode apresentar problemas.
+```
+
+```
+(19.02.2024)
+- Sistema de skins com web site e luvas
+
+(29.02.2024)
+- Skin para jogadores em producao, ja instalado e funcionando uma como por exemplo o kermit
+```

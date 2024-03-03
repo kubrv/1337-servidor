@@ -24,3 +24,7 @@ STEAM_1:1:116014494
 //rhapao
 https://steamcommunity.com/profiles/76561198123249376
 STEAM_0:0:81491824
+
+//lukinhas
+https://steamcommunity.com/profiles/76561198928068969/
+STEAM_0:1:483901620

@@ -36,21 +36,10 @@ killme //SE MATA
 - [X] Faca KUKRI (Solicitado 08/11/2023) (Adicionado 30/11/2023) [>>>](https://github.com/kubrv/1337-servidor/tree/main/instrucoes/kukri) 
 - [ ] Comando de bhop apenas para admin (Solicitado 09/12/2023) 
 - [ ] Comando parecido com aimbot (Solicitado 09/12/2023) 
-- [ ] Acesso ao painel (Solicitado 09/12/2023) 
 - [ ] Mapa inferno do csgo (Solicitado 19/12/2023)
 
 ## CHANGELOG DO MES
 ```
-(03.01.2024)
-- Criado sistema de paraquedas no modo competitivo
-
-(08.01.2024)
-- Implementado sistema de gancho/teia
-
-(09.01.2024
-- Solicitado mapa inferno night (!wsmap 3124567099))
-- Identificado problemas com cmds bans e kicks
-
-(10.01.2024)
-- Corrigido sistema de kicks e bans, o ban ainda pode apresentar problemas.
+(01.03.2024)
+- 
 ```
