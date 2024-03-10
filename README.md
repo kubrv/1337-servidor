@@ -49,6 +49,6 @@ killme //SE MATA
 - Sistema admin atualizado (adicionado novas funcoes, /cash, /gravity).
 - Sistema de addons atualizado.
 - Sistema de SKINS de players agora e possivel ocultar as pernas.
-- Adicionado sistema completo de AGENTS (!agents) e adicionado luvas que faltavam.
+- Adicionado sistema completo de AGENTS  e adicionado luvas que faltavam.
 - Inserido a lanterna ao apertar E (removerei caso nao for usado para video).
 ```
