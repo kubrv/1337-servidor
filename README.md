@@ -41,6 +41,14 @@ killme //SE MATA
 ## CHANGELOG DO MES
 ```
 (03.03.2024)
-- Inserido o mapa Deathrun Playground (!wsmap 3164611860)
+- Inserido o mapa Deathrun Playground (!wsmap 3164611860).
 > se quiser jogaor o modo preciso que informe antes para deixar o servidor para este modo de jogo casual.
+
+(09.03.2024)
+- Api do servidoir atualizada.
+- Sistema admin atualizado (adicionado novas funcoes, /cash, /gravity).
+- Sistema de addons atualizado.
+- Sistema de SKINS de players agora e possivel ocultar as pernas.
+- Adicionado sistema completo de AGENTS (!agents) e adicionado luvas que faltavam.
+- Inserido a lanterna ao apertar E (removerei caso nao for usado para video).
 ```
