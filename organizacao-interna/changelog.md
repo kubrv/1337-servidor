@@ -58,8 +58,8 @@
 
 ```
 (19.02.2024)
-- Sistema de skins com web site e luvas
+- Sistema de skins com web site e luvas.
 
 (29.02.2024)
-- Skin para jogadores em producao, ja instalado e funcionando uma como por exemplo o kermit
+- Skin para jogadores em producao, ja instalado e funcionando uma como por exemplo o kermit.
 ```

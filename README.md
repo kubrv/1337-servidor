@@ -51,4 +51,18 @@ killme //SE MATA
 - Sistema de SKINS de players agora e possivel ocultar as pernas.
 - Adicionado sistema completo de AGENTS  e adicionado luvas que faltavam.
 - Inserido a lanterna ao apertar E (removerei caso nao for usado para video).
+
+(15.03.2024)
+- Lanterna funcionando 100% dentro do servidor.
+
+(20.03.2024)
+- Servidor atualizado, corrigido bug de troca de mapa
+- Adicionado admin para o paulinho
+- Passado um tutorial para o lukinhas de como alterar mapa (segue em anexo)
+
+(24.03.2024)
+- Adicionar skin do pinguim do madasgar como solicitado pelo Lukinhas.
+- Atualizado api do servidor para suporte de kit de musicas.
+- Agora, caso solicitado, e possivel ocultar pernas das skins do jogadores.
+- Atualizado site de skins, incrementado opcao de kit de musica e escolha de agentes.
 ```
