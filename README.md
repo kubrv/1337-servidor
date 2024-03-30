@@ -65,4 +65,11 @@ killme //SE MATA
 - Atualizado api do servidor para suporte de kit de musicas.
 - Agora, caso solicitado, e possivel ocultar pernas das skins do jogadores.
 - Atualizado site de skins, incrementado opcao de kit de musica e escolha de agentes.
+
+(27.03.2024)
+- Gravado mirage enorme.
+- Removido mensagens desnecessarias do chat.
+- Corrigido bug de dar tk.
+- Anotado para remover mensagem de alteracao de speed por exemplo.
+- Banir permanentemente https://steamcommunity.com/profiles/76561199053953035/ strut chato.
 ```
